@@ -20,10 +20,10 @@ Add screenshots of your Customer Overview, Product Performance, and Funnel & Cat
 ![Customer Behavior Overview](screenshots/Page1_overview.png)
 
 ### Product Performance
-![Product Performance](screenshots/page2_product_performance.png)
+![Product Performance](screenshots/Page2_product_performance.png)
 
 ### Funnel & Drop-Off Analysis
-![Funnel and Drop-Off Analysis](screenshots/page3_funnel_analysis.png)
+![Funnel and Drop-Off Analysis](screenshots/Page3_funnel_analysis.png)
 
 ## Key Insights
 Document 3–5 verified insights from the dashboard. Include actual KPI values or percentages wherever available.
