@@ -17,7 +17,7 @@ This project explores e-commerce customer behavior using Power BI to identify pa
 ## Dashboard Preview
 Add screenshots of your Customer Overview, Product Performance, and Funnel & Category Insights pages here.
 ### Customer Behavior Overview
-![Customer Behavior Overview](screenshots/page1_overview.png)
+![Customer Behavior Overview](screenshots/Page1_overview.png)
 
 ### Product Performance
 ![Product Performance](screenshots/page2_product_performance.png)
